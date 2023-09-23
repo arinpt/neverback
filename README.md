@@ -39,7 +39,10 @@ never back down [^1]
 
 edgar
 
-: bad haircut
+:bad haircut
+
+![hi](https://github.com/arinpt/neverback/assets/72355347/3ed97f6e-4a8e-4488-a1c7-2bbba3d8ad1d)
+
 
 ~~peter griffin~~
 
