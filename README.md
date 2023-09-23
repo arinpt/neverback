@@ -37,17 +37,11 @@ never back down [^1]
 
 [^1]: never give up
 
-<<<<<<< HEAD
-term
-: definition
-=======
 edgar
-
 :bad haircut
 
 ![hi](https://github.com/arinpt/neverback/assets/72355347/3ed97f6e-4a8e-4488-a1c7-2bbba3d8ad1d)
 
->>>>>>> 0825ece89d8c4429e2699c863d15223fd97253f7
 
 ~~peter griffin~~
 
@@ -62,4 +56,4 @@ what is goody ==chat==
 
 H0~2~
 
-H^2^
+H ^2^
