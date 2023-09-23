@@ -37,9 +37,8 @@ never back down [^1]
 
 [^1]: never give up
 
-edgar
-
-: bad haircut
+term
+: definition
 
 ~~peter griffin~~
 
@@ -50,7 +49,7 @@ edgar
 which bomboclaat dog i am :skull:
 
 
-what is goody ==chat==.
+what is goody ==chat== 
 
 H0~2~
 
